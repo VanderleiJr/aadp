@@ -20,7 +20,7 @@ Comandos:
 /* Ambiente 1 */
 inicio([[9, 0], 0, []]).
 
-docker([8, 2]).
+docker([3, 0]).
 parede([[4, 0], [7, 1], [4, 2], [5, 4]]).
 elevador([1, 8]).
 lixos([[6, 1], [2, 3], [6, 4]]).
